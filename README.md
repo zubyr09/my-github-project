@@ -1,7 +1,7 @@
 
 # My GitHub Project
 
-Welcome to **My GitHub Project**! This repository is a template to kickstart your Python-based projects.
+Welcome to **My GitHub Project**! This repository is a template to kickstart my Python-based projects.
 
 ## Features
 - Organized project structure.
